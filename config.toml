@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My Blogs'
+theme = "beautifulhugo"
+
+[Params]
+subtitle="Latest Blogs"
+logo="img/logo.jpg"
